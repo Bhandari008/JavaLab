@@ -22,3 +22,12 @@
 ![image](https://user-images.githubusercontent.com/103937888/225855679-3b8604c0-ec49-481b-98e5-4e3880c4bcb5.png)
 
 
+### Lab5:
+`synchronized method`
+
+![image](https://user-images.githubusercontent.com/103937888/225859070-85dabc74-5db4-4d93-943b-c0cb0d1696c0.png)
+
+`synchronized block`
+
+
+
