@@ -1,7 +1,7 @@
 package multithreadPackage;
 
 public class ThreadClassApproach extends Thread {
-	public void start()
+	public void run()
 	{
 		System.out.println("Running: ThreadClass Thread");
 	}
