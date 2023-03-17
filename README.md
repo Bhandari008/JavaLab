@@ -9,3 +9,5 @@
 ### Lab2:
 ![image](https://user-images.githubusercontent.com/103937888/225819053-15e7a9c3-9255-4cce-96b1-8873362777c2.png)
 
+### Lab3:
+![image](https://user-images.githubusercontent.com/103937888/225822327-3fe520ac-3ed2-4ddb-8136-6720d66f5954.png)
