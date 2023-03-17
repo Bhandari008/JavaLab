@@ -28,6 +28,15 @@
 ### Lab6:
 ![image](https://user-images.githubusercontent.com/103937888/225896437-6951037f-5cb1-4c14-b1d5-966e2cda70ef.png)
 
+### Lab7:
+`PlayersFile.txt`
+
+![image](https://user-images.githubusercontent.com/103937888/225899539-5879a104-9965-4cae-b6f3-b323c16b0355.png)
+
+
+![image](https://user-images.githubusercontent.com/103937888/225899237-5c17dee0-4d53-429c-8a87-8efcc36d6c22.png)
+
+
 
 
 
