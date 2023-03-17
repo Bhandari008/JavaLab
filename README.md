@@ -11,3 +11,14 @@
 
 ### Lab3:
 ![image](https://user-images.githubusercontent.com/103937888/225822327-3fe520ac-3ed2-4ddb-8136-6720d66f5954.png)
+
+### Lab4:
+`yield method`
+
+![image](https://user-images.githubusercontent.com/103937888/225853563-58d358d6-352f-426e-b39a-504e0e9edb38.png)
+
+`wait and notify method`
+
+![image](https://user-images.githubusercontent.com/103937888/225855679-3b8604c0-ec49-481b-98e5-4e3880c4bcb5.png)
+
+
