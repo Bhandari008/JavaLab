@@ -23,11 +23,9 @@
 
 
 ### Lab5:
-`synchronized method`
+![image](https://user-images.githubusercontent.com/103937888/225893554-53396c96-ea4b-4dd2-b458-4aa0c77904f0.png)
 
-![image](https://user-images.githubusercontent.com/103937888/225859070-85dabc74-5db4-4d93-943b-c0cb0d1696c0.png)
 
-`synchronized block`
 
 
 
