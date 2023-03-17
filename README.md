@@ -25,6 +25,10 @@
 ### Lab5:
 ![image](https://user-images.githubusercontent.com/103937888/225893554-53396c96-ea4b-4dd2-b458-4aa0c77904f0.png)
 
+### Lab6:
+![image](https://user-images.githubusercontent.com/103937888/225896437-6951037f-5cb1-4c14-b1d5-966e2cda70ef.png)
+
+
 
 
 
