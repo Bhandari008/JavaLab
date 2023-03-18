@@ -56,6 +56,10 @@
 ### Lab13:
 ![image](https://user-images.githubusercontent.com/103937888/226090320-e539c245-2e9b-4aa9-86a1-3e2c8fbd3d2e.png)
 
+### Lab14:
+![image](https://user-images.githubusercontent.com/103937888/226090603-c6a1f1b4-1869-4a4c-95fc-9db953857ef9.png)
+
+
 
 
 
