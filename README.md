@@ -44,6 +44,9 @@
 ### Lab9:
 ![image](https://user-images.githubusercontent.com/103937888/226080754-deca4699-efe9-4058-b215-d4c4f5112398.png)
 
+### Lab10:
+![image](https://user-images.githubusercontent.com/103937888/226082261-f30eea64-6c87-49e4-851a-968b826af933.png)
+
 
 
 
