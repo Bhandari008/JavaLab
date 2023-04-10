@@ -78,6 +78,13 @@
 ### Lab 19
 ![image](https://user-images.githubusercontent.com/103937888/230812410-f7b617af-51e5-4a78-827c-7a5ad461e460.png)
 
+### Lab 20
+Before
+![image](https://user-images.githubusercontent.com/103937888/230827334-a0adb198-0681-4c15-a20c-91e4c5142d06.png)
+After
+![image](https://user-images.githubusercontent.com/103937888/230827408-db67a5c4-d608-468c-b11f-fe5ad52139bf.png)
+
+
 
 
 
