@@ -87,6 +87,12 @@ After
 ### Lab 21
 ![image](https://user-images.githubusercontent.com/103937888/230829012-b784dab3-26ec-4519-b51a-531ede098004.png)
 
+### Lab 22
+
+Before : ![image](https://user-images.githubusercontent.com/103937888/230830926-ca74cbfb-ba4b-4f25-95eb-8c13e3ba5f05.png)
+After :![image](https://user-images.githubusercontent.com/103937888/230830970-42331ce9-b91e-4e68-91ae-2149f21f3e36.png)
+
+
 
 
 
