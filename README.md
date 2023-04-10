@@ -95,6 +95,19 @@ After :![image](https://user-images.githubusercontent.com/103937888/230830970-42
 ---
 <a href="https://github.com/Bhandari008/JavaLab/tree/main/Unit_5_Lab/src">Unit 5 Lab</a>
 
+### Lab 23
+`TCP Server`
+![image](https://user-images.githubusercontent.com/103937888/230837025-5cad7a81-f1f1-47ff-8467-260a53e7a5e5.png)
+`TCP Client`
+![image](https://user-images.githubusercontent.com/103937888/230837124-460dd600-a2db-4dfd-acbd-51f87cb0a1d4.png)
+
+`UDP Sever`
+![image](https://user-images.githubusercontent.com/103937888/230837247-94234ff8-b062-48f9-9991-69d10fabb96b.png)
+
+`UDP Client`
+![image](https://user-images.githubusercontent.com/103937888/230837278-8a67e4a9-fc26-4f94-a9f1-de47ea2f96c3.png)
+
+
 
 
 
