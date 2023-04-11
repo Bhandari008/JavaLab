@@ -124,6 +124,10 @@ After :![image](https://user-images.githubusercontent.com/103937888/230830970-42
 ### Lab 28
 ![image](https://user-images.githubusercontent.com/103937888/231042376-8d4c3d15-4484-4776-8287-5c9e1c624760.png)
 
+### Lab 29
+![image](https://user-images.githubusercontent.com/103937888/231043085-a9f641ae-4244-4d5e-b86c-ab2e00019410.png)
+
+
 
 
 
