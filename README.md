@@ -130,6 +130,17 @@ After :![image](https://user-images.githubusercontent.com/103937888/230830970-42
 ### Lab 30
 ![image](https://user-images.githubusercontent.com/103937888/231132621-e00f496d-a1b7-47f6-89c1-e6bcfcc7fafa.png)
 
+### Lab 31
+`session with Servlet`
+Before
+![image](https://user-images.githubusercontent.com/103937888/231133953-4ae7afbc-c3aa-40e8-839f-9f30110161f3.png)
+After
+![image](https://user-images.githubusercontent.com/103937888/231134017-14704811-8218-4f4b-be46-a791a2cecf1e.png)
+
+`session with JSP`
+![image](https://user-images.githubusercontent.com/103937888/231136173-52028fac-29d6-4275-981d-3437c5c88bf4.png)
+
+### Lab 32
 
 
 
